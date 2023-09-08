@@ -13,12 +13,12 @@ After completing this lab you will be able to:
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
 <ol>
-    <li><a href="https://#import_data">Import Data from Module</a></li>
-    <li><a href="https://#pattern_visualization">Analyzing Individual Feature Patterns using Visualization</a></li>
-    <li><a href="https://#discriptive_statistics">Descriptive Statistical Analysis</a></li>
-    <li><a href="https://#basic_grouping">Basics of Grouping</a></li>
-    <li><a href="https://#correlation_causation">Correlation and Causation</a></li>
-    <li><a href="https://#anova">ANOVA</a></li>
+    <li>Import Data from Module</li>
+    <li>Analyzing Individual Feature Patterns using Visualization</li>
+    <li>Descriptive Statistical Analysis</li>
+    <li>Basics of Grouping</li>
+    <li>Correlation and Causation</li>
+    <li>ANOVA</li>
 </ol>
 
 </div>
